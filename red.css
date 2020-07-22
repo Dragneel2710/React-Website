@@ -1,0 +1,21 @@
+.pe{
+    color : #00ccff;
+    border: 1px solid black;
+  margin: 25px 50px 75px 100px;
+  background-color: grey;   
+}
+
+body{
+    background-color: #000000;
+}
+
+.title{
+    color : #00ccff;
+}
+
+h1{
+    color : #00ccff;
+    border: 1px solid black;
+  margin: 25px 50px 75px 100px;
+  background-color: grey;   
+}
